@@ -28,6 +28,8 @@ description: "The Tale of Squirrel Nutkin is a children's book written and illus
   \ tales and folk tales in its explanations of Squirrel Nutkin's short tail and characteristics\
   \ of squirrel behaviour. An abbreviated version of the tale appeared as a segment\
   \ in the 1971 ballet film, The Tales of Beatrix Potter.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14872#The-Tale-of-Squirrel-Nutkin
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-02-02'
 gutenberg_type: Text
