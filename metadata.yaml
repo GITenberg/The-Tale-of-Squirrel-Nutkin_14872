@@ -1,0 +1,53 @@
+_repo: The-Tale-of-Squirrel-Nutkin_14872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Squirrel Nutkin is a children's book written and illustrated\
+  \ by Beatrix Potter and first published by Frederick Warne & Co. in August 1903.\
+  \ The story is about an impertinent red squirrel named Nutkin and his narrow escape\
+  \ from an owl called Old Brown. The book followed Potter's hugely successful The\
+  \ Tale of Peter Rabbit, and was an instant hit. The now familiar endpapers of the\
+  \ Peter Rabbit series were introduced in the book.\nSquirrel Nutkin had its origins\
+  \ in a story and picture letter Potter sent Norah Moore, the daughter of her former\
+  \ governess, Annie Carter Moore. The background illustrations were modelled on Derwentwater\
+  \ and St. Herbert's Island in the Lake District.\nOne commentator has likened Squirrel\
+  \ Nutkin's impertinent behaviour to that of the rebellious working-class of Potter's\
+  \ own day, and another commentator has noted the tale's similarities to pourquoi\
+  \ tales and folk tales in its explanations of Squirrel Nutkin's short tail and characteristics\
+  \ of squirrel behaviour. An abbreviated version of the tale appeared as a segment\
+  \ in the 1971 ballet film, The Tales of Beatrix Potter.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14872'
+  wikidata: Q4272152
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Squirrels -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tale of Squirrel Nutkin
+url: http://www.gutenberg.org/ebooks/14872
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%82%8A%E3%81%99%E3%81%AE%E3%83%8A%E3%83%88%E3%82%AD%E3%83%B3%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin
+- https://simple.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin
+- https://en.wikisource.org/wiki/The_Tale_of_Squirrel_Nutkin
+- https://en.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Squirrel_Nutkin
+- https://id.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin
